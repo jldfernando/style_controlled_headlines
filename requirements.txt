@@ -10,3 +10,5 @@ numpy
 evaluate
 rouge_score
 tqdm
+matplotlib
+seaborn
